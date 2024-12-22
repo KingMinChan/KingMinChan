@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/ Expo-ede9e6?style=flat-square&logo=Expo&logoColor=000020"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/ Pytorch-ede9e6?style=flat-square&logo=Expo&logoColor=000020"/>
+  <img src="https://img.shields.io/badge/ TensorFlow-ede9e6?style=flat-square&logo=TensorFlow&logoColor=000020"/>
 </span>
 
 ---
