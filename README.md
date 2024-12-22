@@ -4,7 +4,7 @@
 <br><br>
 
 <!-- 타이틀 타이핑 이펙 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Anton&pause=1000&color=F7360087&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+DaIn's+Hub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Anton&pause=1000&color=F7360087&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+MinChan's+Hub" alt="Typing SVG" /></a>
 
 ---
 
@@ -25,10 +25,10 @@
 <br><br>
 <div algin = "center">
 <!-- 리드미 스탯 -->
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dain2822&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KingMinChan&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <!-- 탑 랭 -->
-<img src="https://github-readme-stats.vercel.app/api?username=dain2822&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-stats.vercel.app/api?username=KingMinChan&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 <!-- 활동 그래프 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dain2822&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KingMinChan&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </div>
 <br><br> 
